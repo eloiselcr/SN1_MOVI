@@ -1,5 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@700&display=swap');
+
+
+
+
 body {
     margin:0;
     padding:0;
     background: url(arriere_plan.png) no-repeat; 
 }
+
+.bandeau {
+    width: 1415px;
+    height: 150px;
+}
+
+.Nom {
+    width: 1415px;
+    height: 550px;
+    font-family: 'Oleo Script', cursive;
+}
+
+p.center_nom {
+    top : 100px;
+    left: 130px;
+    margin: 20px 50px 10px;
+    position: relative;
+    font-size: 100px;
+}
+
+.Photo {
+    width: 415px;
+    height: 950px;
+    float: center;
+}
+
