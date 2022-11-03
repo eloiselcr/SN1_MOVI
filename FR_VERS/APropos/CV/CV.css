@@ -11,9 +11,10 @@ body {
     margin:0;
     padding:0;
     background: url(arriere_plan.png) no-repeat; 
+    background-size: cover;
+    background-color: black;
     width: 1415px;
     height: 2000px;
-
 }
 
 .bandeau {
